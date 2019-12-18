@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding= 'utf-8'?>
+<Fruit version = "1.0">
+    <Apple
+            VA = "1"
+            VB = "2"
+            VC = "3"
+            VD = "4"
+            Sugar = "5"
+            Fibre = "6"
+            Protein = "8"
+            />
+    <Pear
+            VA = "8"
+            VB = "7"
+            VC = "6"
+            VD = "5"
+            Sugar = "4"
+            Fibre = "3"
+            Protein = "2"
+            />
+    <Banana
+            VA = "3"
+            VB = "3"
+            VC = "3"
+            VD = "3"
+            Sugar = "3"
+            Fibre = "10"
+            Protein = "3"
+            />
+</Fruit>
